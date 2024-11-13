@@ -1,0 +1,1 @@
+ln -s /root/chainmaker/workspace/build/crypto-config/ /root/chainmaker/sdk-go/testdata

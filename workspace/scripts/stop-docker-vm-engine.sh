@@ -1,0 +1,1 @@
+docker stop chainmaker_vm_solo

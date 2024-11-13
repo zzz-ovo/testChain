@@ -1,0 +1,9 @@
+# IDE
+.idea
+.vscode
+.DS_Store
+cover.out
+
+# tmp
+*.log
+*.log.*
